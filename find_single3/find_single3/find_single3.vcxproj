@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{2616A01C-F754-40C8-9469-B2B240385FAD}</ProjectGuid>
-    <RootNamespace>cultivat_plant</RootNamespace>
+    <ProjectGuid>{4E70FDDB-1C6A-4769-B853-A7959BAFD2BC}</ProjectGuid>
+    <RootNamespace>find_single3</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
