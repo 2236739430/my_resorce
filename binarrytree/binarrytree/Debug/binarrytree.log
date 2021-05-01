@@ -1,0 +1,16 @@
+﻿生成启动时间为 2021/5/1 9:17:36。
+     1>项目“C:\Users\Administrator\Desktop\c++\homework\binarrytree\binarrytree\binarrytree.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>c:\users\administrator\desktop\c++\homework\binarrytree\binarrytree\test.c(6): warning C4047: “函数”:“BTNode *”与“BTNode **”的间接级别不同
+     1>c:\users\administrator\desktop\c++\homework\binarrytree\binarrytree\test.c(6): warning C4024: “BinaryTreeCreate”: 形参和实参 1 的类型不同
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\c++\homework\binarrytree\Debug\binarrytree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\c++\homework\binarrytree\Debug\binarrytree.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\c++\homework\binarrytree\Debug\binarrytree.lib" /MACHINE:X86 Debug\BTtree.obj
+         Debug\test.obj
+         binarrytree.vcxproj -> C:\Users\Administrator\Desktop\c++\homework\binarrytree\Debug\binarrytree.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\c++\homework\binarrytree\binarrytree\binarrytree.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.44
