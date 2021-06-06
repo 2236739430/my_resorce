@@ -1,0 +1,15 @@
+﻿生成启动时间为 2021/6/6 15:45:43。
+     1>项目“C:\Users\Administrator\Desktop\c++\homework\gist_opera\gist_opera\gist_opera.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>c:\users\administrator\desktop\c++\homework\gist_opera\gist_opera\test.cpp(31): error C2065: “cc”: 未声明的标识符
+     1>c:\users\administrator\desktop\c++\homework\gist_opera\gist_opera\test.cpp(31): error C2668: “operator new”: 对重载函数的调用不明确
+                 d:\visual studio\vc\include\new(87): 可能是“void *operator new(size_t,const std::nothrow_t &) throw()”
+                 d:\visual studio\vc\include\new(58): 或       “void *operator new(size_t,void *) throw()”
+                 尝试匹配参数列表“(unsigned int, unknown-type)”时
+     1>已完成生成项目“C:\Users\Administrator\Desktop\c++\homework\gist_opera\gist_opera\gist_opera.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.42
